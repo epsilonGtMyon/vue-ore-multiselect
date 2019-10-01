@@ -1,5 +1,7 @@
 # vue-ore-multiselect
 
+複数選択のセレクトボックスをつくってみた
+
 ## Project setup
 ```
 yarn install
